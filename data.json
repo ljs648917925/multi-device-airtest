@@ -1,0 +1,22 @@
+{
+    "start": 1558921738.7175913,
+    "script": "test_blackjack.air",
+    "tests": {
+        "52f0737": {
+            "status": 0,
+            "path": "test_blackjack.air\\log\\52f0737\\log.html"
+        },
+        "721QEBRL2VGKL": {
+            "status": 0,
+            "path": "test_blackjack.air\\log\\721QEBRL2VGKL\\log.html"
+        },
+        "9889db3057374c4544": {
+            "status": 0,
+            "path": "test_blackjack.air\\log\\9889db3057374c4544\\log.html"
+        },
+        "AKC0218625007616": {
+            "status": 0,
+            "path": "test_blackjack.air\\log\\AKC0218625007616\\log.html"
+        }
+    }
+}
